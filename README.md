@@ -6,3 +6,4 @@
          I am venezuelan, but I've lived in Peru since 2018.
          I did International Baccalaureate Diploma Programme (IBDP) during 2022-2023.
          I am a graduate of Colegio Mayor Secundario Presidente del Perú (CMSPP) in 2023.
+         I am studying in UTEC - University of Engineering and Techonology.
