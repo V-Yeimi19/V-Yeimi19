@@ -8,6 +8,7 @@ I am a computer science student, currently halfway through my degree. I am expan
 - 🌱 I’m currently learning ...
   - Flutter
   - RISC-V Assembly
+  - Theory of computation
 - 👯 I’m looking forward to collaborate on open source projects.
   
 - Outside tech, I love 🎵 listening to music, 🗣️​ sing, 📺​ watch animes, ​👨‍👩‍👧‍👧​ spend time with my parent and close friends.
@@ -60,12 +61,17 @@ I am a computer science student, currently halfway through my degree. I am expan
 </span>
 
 
+## Previous studies ...
+- International Baccalaureate
+- English level: B2
+- Courses from CISCO: IoT and Cybersecurity
+
 ## Check out my Social Media
 
-<a href= "https://www.instagram.com/yeimivv19/?hl=es">
+<a href= "https://www.instagram.com/_adelmar_19/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/_adelmar_19/">
+<a href="https://www.linkedin.com/in/yeimivv19">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
 </a>
 
